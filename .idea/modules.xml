@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/My Application.iml" filepath="$PROJECT_DIR$/My Application.iml" />
+      <module fileurl="file://C:\Users\MDev\Desktop\My_Application\My Application.iml" filepath="C:\Users\MDev\Desktop\My_Application\My Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My_Application.iml" filepath="$PROJECT_DIR$/My_Application.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\MDev\Desktop\My_Application\app\app.iml" filepath="C:\Users\MDev\Desktop\My_Application\app\app.iml" />
     </modules>
   </component>
 </project>
